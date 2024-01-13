@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #1a29a3;
+}
+
+.container {
+  width: 550px;
+  height: 400px;
+  background-color: #c9c9c9;
+  margin: auto;
+  margin-top: 150px;
+  text-align: center;
+  border-radius: 25px;
+}
+
+p {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 30px;
+  color: #333;
+}
+
+input {
+  width: 90%;
+  height: 40px;
+  margin-top: 10px;
+  direction: rtl;
+  font-size: 25px;
+}
+
+button {
+  background-color: #090f60;
+  width: 90%;
+  height: 80px;
+  margin-top: 30px;
+  font-size: 40px;
+  color: white;
+}
+
+#Percentage {
+  background-color: #c9c9c9;
+  width: 550px;
+  height: 100px;
+  margin: auto;
+  margin-top: 15px;
+  text-align: center;
+  font-size: 50px;
+  padding-top: 20px;
+  font-weight: bold;
+  display: none;
+}
